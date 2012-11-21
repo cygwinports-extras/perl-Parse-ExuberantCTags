@@ -1,0 +1,10 @@
+CPAN_AUTHOR=smueller
+inherit perl
+
+NAME="perl-Parse-ExuberantCTags"
+VERSION=1.02
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl ctags parser module"
+DESCRIPTION="This Perl module parses ctags files and handles both traditional
+ctags as well as extended ctags files such as produced with Exuberant ctags."
