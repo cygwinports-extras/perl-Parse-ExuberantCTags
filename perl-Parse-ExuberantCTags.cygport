@@ -3,7 +3,7 @@ inherit perl
 
 NAME="perl-Parse-ExuberantCTags"
 VERSION=1.02
-RELEASE=1
+RELEASE=2
 CATEGORY="Perl"
 SUMMARY="Perl ctags parser module"
 DESCRIPTION="This Perl module parses ctags files and handles both traditional
